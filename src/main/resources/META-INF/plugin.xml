@@ -12,6 +12,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <annotator language="go" implementationClass="com.schphe.gopherformat.FormatAnnotator"/>
-        <foldingBuilder language="go" implementationClass="com.schphe.gopherformat.FormatFoldingBuilder"/>
+        <lang.foldingBuilder language="go" implementationClass="com.schphe.gopherformat.FormatFoldingBuilder"/>
     </extensions>
 </idea-plugin>
